@@ -7,7 +7,7 @@
   "scripts": {
     "dev": "node --watch app.js"
   },
-  "author": "szMauro",
+  "author": "SanchezMV",
   "license": "ISC",
   "dependencies": {
     "dotenv": "^16.3.1",
